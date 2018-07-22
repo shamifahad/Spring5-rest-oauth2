@@ -1,0 +1,10 @@
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/PersistenceConfig.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/App.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/PasswordEncodingConfig.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/UserController.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/AuthorisationServerConfig.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/model/Authority.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/model/User.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/SecurityConfig.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/servers/config/ResourceServerConfig.java
+/Users/zohaibumair/Documents/Spring5-REST-OAUTH2_WS/Spring5-rest-oauth2/sso-auth-server/src/main/java/com/zohaib/research/oauth2/services/UserDetailsService.java
