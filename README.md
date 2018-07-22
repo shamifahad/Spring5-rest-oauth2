@@ -1,4 +1,5 @@
 Todo:
+-----
 
 
 Spring data source config for oauth2.
@@ -14,3 +15,6 @@ SecurityConfig class.
 Sample rest service in separate project using this oauth service.
 
 Write detailed steps how to test sample rest service with this oauth2 server.
+
+How to test:
+------------
